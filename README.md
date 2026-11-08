@@ -4,7 +4,7 @@
 
 ### AI-driven eDNA biodiversity analysis and an interactive dashboard
 
-**Smart India Hackathon 2025 project**
+**Smart India Hackathon 2025 · team project**
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-BiLSTM%20%2B%20Attention-EE4C2C?logo=pytorch&logoColor=white)
@@ -132,7 +132,7 @@ This was built in a hackathon, so some parts are deliberately simplified:
 **Ojaswi Gondalia** · B.Tech Artificial Intelligence, NMIMS Mumbai  
 [GitHub](https://github.com/ojaswi04) · [LinkedIn](https://linkedin.com/in/ojaswi-gondalia-25bb65205) · ojaswigondalia@gmail.com
 
-Built for **Smart India Hackathon 2025** (problem statement: *Identifying taxonomy and assessing biodiversity from eDNA datasets*).
+Built with my team for **Smart India Hackathon 2025** (problem statement: *Identifying taxonomy and assessing biodiversity from eDNA datasets*).
 
 ## License
 
