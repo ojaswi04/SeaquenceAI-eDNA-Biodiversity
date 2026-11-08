@@ -1,0 +1,31 @@
+{
+  "timestamp": "2025-09-07T18:31:11.496817",
+  "sequence_count": 500,
+  "biodiversity_indices": {
+    "shannon_diversity": 1.5705602903383973,
+    "simpson_diversity": 0.621944,
+    "species_richness": 11,
+    "evenness": 0.6549745137557804,
+    "total_sequences": 500,
+    "known_taxa": 200,
+    "novel_clusters": 1
+  },
+  "novel_taxa_count": 1,
+  "taxonomic_summary": {
+    "Echinoderm sp.": 13,
+    "Porifera sp.": 16,
+    "Dinoflagellate sp.": 21,
+    "Nematode sp.": 21,
+    "Polychaete sp.": 13,
+    "Radiolaria sp.": 16,
+    "Copepod sp.": 30,
+    "Foraminifera sp.": 15,
+    "Cnidarian sp.": 36,
+    "Diatom sp.": 19
+  },
+  "processing_summary": {
+    "total_sequences": 500,
+    "classified_sequences": 200,
+    "novel_clusters_found": 1
+  }
+}
