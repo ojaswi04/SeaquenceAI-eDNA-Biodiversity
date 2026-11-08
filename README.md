@@ -127,11 +127,6 @@ This was built in a hackathon, so some parts are deliberately simplified:
 
 ---
 
-## Author
-
-**Ojaswi Gondalia** · B.Tech Artificial Intelligence, NMIMS Mumbai  
-[GitHub](https://github.com/ojaswi04) · [LinkedIn](https://linkedin.com/in/ojaswi-gondalia-25bb65205) · ojaswigondalia@gmail.com
-
 Built with my team for **Smart India Hackathon 2025** (problem statement: *Identifying taxonomy and assessing biodiversity from eDNA datasets*).
 
 ## License
